@@ -1,2 +1,2 @@
 # Algorithms
-the practice repository of textbook algorithm
+the practice repository of textbook algorithm(mainly)
